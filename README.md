@@ -1,2 +1,2 @@
 # keeeeeeeb
-Hardware UID RGB Switcher (The webhosted version for arbiter sucks)
+Hardware HID RGB Switcher (The webhosted version for arbiter sucks)
